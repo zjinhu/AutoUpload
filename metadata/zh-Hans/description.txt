@@ -1,0 +1,15 @@
+
+Rubber AI采用AI算法对照片进行智能处理，无需上传到网络，保护您的隐私。
+
+Rubber AI是一款超级简单的照片修改工具。 轻松擦除照片中不必要的路人。轻松精细地擦除照片中杂乱物体，智能还原背景。
+
+服务说明
+1、服务：
+a) 年度会员（12个月）
+b) 永久会员
+2.付款：用户确认购买并付款后，将记入iTunes账户
+3、自动续费：苹果iTunes账户到期前24小时内扣费，扣费成功后订阅周期顺延1个订阅周期
+4.关闭服务：您可以在iPhone上进入“设置”-->进入“iTunes Store和App Store”-->点击“Apple ID”，选择“查看Apple ID”，进入“帐户设置” 页面，点击“订阅”，如需取消管理自动订阅服务，可在每个计费周期结束前24小时关闭，到期前24小时内不再进行扣费
+5、服务协议
+用户协议：https://vicoapps.github.io/Eula_VicoApps_us/
+隐私政策：https://vicoapps.github.io/Privacy_VicoApps_us/

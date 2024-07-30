@@ -1,0 +1,1 @@
+Rubber AI does not upload your photos to the cloud, but processes your photos locally through models, which is good for protecting your privacy

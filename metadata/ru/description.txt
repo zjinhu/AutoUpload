@@ -1,0 +1,15 @@
+
+Rubber AI uses AI algorithm to intelligently process photos without uploading to the network to protect your privacy.
+
+Rubber AI is a super simple modify photos tool. Easily erase unnecessary passers-by in the photo.Easily and finely erase messy objects in photos, and intelligently restore the background.
+
+Service Description
+1. Service:
+a) Continuous monthly membership (1 month), continuous seasonal membership (3 months), and annual membership (12 months)
+b) Permanent Member
+2. Payment: After the user confirms the purchase and pays, it will be charged to the iTunes account
+3. Automatic renewal: Apple iTunes account will be deducted within 24 hours before expiration, and the subscription cycle will be extended by 1 subscription cycle after the deduction is successful
+4. Turn off the service: You can go to "Settings" on your iPhone --> enter "iTunes Store and App Store" --> click "Apple ID", select "View Apple ID", enter the "Account Settings" page, and click "Subscribe" , if you need to cancel the management automatic subscription service, you can close it 24 hours before the end of each billing cycle, and no further deduction will be made within 24 hours before the expiration
+5. Service Agreement
+User Agreement: https://vicoapps.github.io/Eula_VicoApps_us/
+Privacy Policy: https://vicoapps.github.io/Privacy_VicoApps_us/

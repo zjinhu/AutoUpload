@@ -1,0 +1,33 @@
+# This file contains the fastlane.tools configuration
+# You can find the documentation at https://docs.fastlane.tools
+#
+# For a list of all available actions, check out
+#
+#     https://docs.fastlane.tools/actions
+#
+# For a list of all available plugins, check out
+#
+#     https://docs.fastlane.tools/plugins/available-plugins
+#
+
+# Uncomment the line if you want fastlane to automatically update itself
+# update_fastlane
+
+default_platform(:ios)
+
+platform :ios do
+  desc "Description of what the lane does"
+  lane :upload do
+	    deliver(
+			username: "jasonzhang0214@yeah.net",
+			app_identifier: "com.apefun.Eraser",
+		    metadata_path: "./metadata",
+		    screenshots_path: "./screenshots",
+			skip_binary_upload: true,#跳过上传ipa或pkg到iTunes Connect
+			skip_metadata: true,#不要上传元数据(如标题、描述)。这仍然会上传屏幕快照
+			force: true,#跳过HTML报告文件验证。
+			overwrite_screenshots: true,#在上传新截图之前，先清除所有之前上传的截图
+			precheck_include_in_app_purchases: false,
+		)
+  end
+end
